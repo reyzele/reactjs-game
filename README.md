@@ -1,0 +1,1 @@
+## Simple game based on React.js
